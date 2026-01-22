@@ -16,7 +16,7 @@ I specialize in **Artificial Intelligence and Machine Learning**, with a strong 
 * **Community:** Collaborated with institutions like IISc Bangalore and IIT Bombay for technical outreach.
 
 ### 📊 GitHub Stats
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Akiiicodes&show_icons=true&theme=radical)
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akiiicodes &show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
 
 ---
