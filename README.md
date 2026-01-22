@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ankit Raj 👋
 
-<!--
-**Akiiicodes/Akiiicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student @ MSRIT
+I specialize in **Artificial Intelligence and Machine Learning**, with a strong foundation in **C++, Java, and Python**. I enjoy building systems that bridge the gap between complex algorithms and real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Expertise
+* **AI/ML:** PyTorch, TensorFlow, Stable Diffusion, GPT-2.
+* **Computer Vision:** CNN architectures (ResNet18, VGG16), OpenCV.
+* **Languages:** Expert in C++ and Python for Data Structures and Algorithms.
+* **Tools:** Git, Linux, Bash, and PowerBI.
+
+### 🏆 Leadership & Experience
+* **Vice Chair at RIT ACM Student Chapter:** I lead technical initiatives and have organized large-scale events like **Javathon**, **Hack Venture**, and **Codegolf**.
+* **Community:** Collaborated with institutions like IISc Bangalore and IIT Bombay for technical outreach.
+
+### 📊 GitHub Stats
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:ankitraj4653@gmail.com)
